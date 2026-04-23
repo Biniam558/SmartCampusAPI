@@ -118,11 +118,8 @@ The API was tested using Postman.
 ---
 
 ## Video Demonstration
-
-(Add your video link here)
-
-Example:
-https://your-video-link-here
+Watch the demo here:
+https://drive.google.com/file/d/1DqU3-We1BrzTqsW9BWHFh0sR95NmTW3R/view?usp=sharing
 
 ---
 
